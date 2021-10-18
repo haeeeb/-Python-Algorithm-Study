@@ -3,3 +3,6 @@ def gittest(a):
 
 result = gittest("화이팅!!!!!!!!!!!!!")
 print(result)
+
+result2 = gittest("화이퉹!!!!!!!!!")
+print(result2)
